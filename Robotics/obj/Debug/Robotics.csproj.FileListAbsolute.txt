@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\bin\Debug\Robotics.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\bin\Debug\Robotics.exe
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\bin\Debug\Robotics.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.exe
+c:\users\acer\documents\visual studio 2015\Projects\Robotics\Robotics\obj\Debug\Robotics.pdb
